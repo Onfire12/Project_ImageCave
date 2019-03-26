@@ -18,6 +18,7 @@ Front-end:
 - CSS
 - Bootstrap
 - HTML5
+
 Back-end:
 - Python
 - Flask
